@@ -4,7 +4,7 @@
     "copyright" : "By: Wanderson M. Pimenta",
     "year" : 2021,
     "theme_name" : "default",
-    "custom_title_bar": true,
+    "custom_title_bar": false,
     "startup_size": [
         1400,
         720
